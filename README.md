@@ -3,4 +3,4 @@ Early formulations of an optimal path planning algorithm. Searches down the stat
 
 - Formulation 2-1: Has multiple drones searching the space at the same time. Really increases the tree width making computation absurdly slow
 
--Formulation 1-1: Has a single drone searching the space. Pretty fast compared to 2-1.
+- Formulation 1-1: Has a single drone searching the space. Pretty fast compared to 2-1.
